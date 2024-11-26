@@ -1,0 +1,5 @@
+print("Olá, mundo")
+print("quero almoçar")
+print("cafézinho hmmm")
+print("pastel e salgado")
+print("preciso ir comer")
